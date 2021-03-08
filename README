@@ -24,4 +24,5 @@ official release of the book.
 
 Victor Eijkhout
 2007-2012
+
 > 2021.03.08增注：源文件编译存在 bug，需要复制一份 ctexhook.sty 至工作目录，然后修改其第57行，具体修改方式见CTeX宏集最新一条更新。
